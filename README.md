@@ -37,6 +37,12 @@ This project is an AI-powered worker safety and productivity monitoring system d
 - NumPy
 
 ---
+## Custom Trained Model
+
+This is the link for the custom trained model we used 
+
+-> https://drive.google.com/file/d/1gP6rbCbWnnN2JzCHyBeIaomKCnwh3Bln/view?usp=sharing
+---
 ##  Project Structure
 
 ```
